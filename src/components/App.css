@@ -1,0 +1,26 @@
+.app {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd_YrGQzrBYHFsY4VdxfTjqPqOrkjAtMKv1w&usqp=CAU');
+
+  background-image: url('https://image.freepik.com/free-vector/black-wallpaper-with-motion-lines-background_1017-30151.jpg');
+  /* Full height */
+  height: 200vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h11 {
+  align-items: center;
+  text-align: center;
+  color: #dfdfdf;
+  padding: 15px;
+  font-size: 2.5rem;
+}
+.app {
+  background-color: #dfdfdf;
+}
+.searchbar {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
